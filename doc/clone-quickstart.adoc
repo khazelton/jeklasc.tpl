@@ -41,6 +41,7 @@ https://mattrighetti.com/2023/02/22/asciidoc-liquid-and-jekyll <- +
 https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/ <- side-by-side examples of markdown and asciidoc syntax +
 https://github.com/asciidoctor/kramdown-asciidoc[markdown to asciidoc] <- Kramdown AsciiDoc (Markdown to AsciiDoc) +
 https://github.com/opendevise/downdoc[asciidoc to markdown] +
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll +
 
 
 
