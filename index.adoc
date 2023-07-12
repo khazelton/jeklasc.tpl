@@ -7,7 +7,7 @@ This addition will trigger the auto-republication workflow. You've successfully 
 
 == What do I do now?
 
-Here is a doc/[quick step-by-step guide] to creating your own version of this site is 
+Here is a xref:document-b.adoc[quick step-by-step guide] to creating your own version of this site is 
 
 Now that you've set up your website to run with AsciiDoc, you have a ton of options available to you.
 
