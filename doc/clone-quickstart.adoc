@@ -1,6 +1,4 @@
-MVP demo of asciidoc / Jekyll / github pages doc system_
-
-===== quick path to a simple documentation workflow and publication site m
+=== quick path to a simple documentation workflow and publication site
 
 . Precondition, get a user account on github (to follow along with this demo, start at https://github.com, there is a free option)
 . Browse to https://github.com/asciidoctor/jekyll-asciidoc-quickstart
