@@ -25,7 +25,7 @@
 . To create 'spaces' (in Confluence terminology), create a 'doc' directory at the same level as the index.adoc
 . To create 'pages', add a newfile.adoc file in the 'doc' directory
 . Edit index.adoc to include a cross-reference to the new file: xref:doc/newfile.adoc
-. When the site auto-publish workflow completes, the new link in index.adoc will take you to the new file.
+. When the site auto-publish workflow completes, the new link in index.adoc will take you to the new 'page' in the 'doc' space.
 
 === References and Links
 https://asciidoctor.org/ +
