@@ -21,6 +21,26 @@
 . The Quickstart page appears, hosted in the repo you created.
 . If you open README.adoc for edits, add a sentence somewhere and commit the change, the auto-republication workflow will begin. 
 . Click on 'actions' on the top toolbar to track the process. 
-. When the process finishes, revisit the site and you should see the changes you made
+. When the process finishes, revisit the site and you should see the changes you made.
+. To create 'spaces' (in Confluence terminology), create a 'doc' directory at the same level as the index.adoc
+. To create 'pages', add a newfile.adoc file in the 'doc' directory
+. Edit index.adoc to include a cross-reference to the new file: xref:doc/newfile.adoc
+. When the site auto-publish workflow completes, the new link in index.adoc will take you to the new file.
+
+=== References and Links
+https://asciidoctor.org/ +
+http://themes.asciidoctor.org/preview/ <- Writer's guide +
+https://docs.asciidoctor.org/asciidoc/latest/directives/include/ +
+https://docs.asciidoctor.org/asciidoc/latest/docinfo/ <- custom content into head, header, or footer +
+https://asciidoc-wg.eclipse.org/ +
+https://blog.jread.com/auto-build-and-host-pretty-html-documentation-using-asciidoc-github-pages-github-actions-758a03f93d7d <- readme.md with asciidoc pages +
+https://matthewjamestaylor.com/holy-grail-layout <- 'holy grail 3 column responsive layout' +
+https://docs.asciidoctor.org/asciidoctor/latest/html-backend/custom-stylesheet/ +
+https://jekyllrb.com/docs/step-by-step/07-assets/ <- including css, images, js, _sass +
+https://mattrighetti.com/2023/02/22/asciidoc-liquid-and-jekyll <- +
+https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/ <- side-by-side examples of markdown and asciidoc syntax +
+https://github.com/asciidoctor/kramdown-asciidoc[markdown to asciidoc] <- Kramdown AsciiDoc (Markdown to AsciiDoc) +
+https://github.com/opendevise/downdoc[asciidoc to markdown] +
+
 
 
