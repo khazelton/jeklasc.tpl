@@ -2,7 +2,7 @@
 :experimental:
 ifndef::env-github[:toc:]
 
-The Jekyll AsciiDoc Quickstart project provides a quick way to set up an AsciiDoc-based website using GitHub's publishing infrastructure.
+This addition will trigger the auto-republication workflow. The Jekyll AsciiDoc Quickstart project provides a quick way to set up an AsciiDoc-based website using GitHub's publishing infrastructure.
 This project combines the power of AsciiDoc with an elegant CSS foundation and a blog-ready template.
 Since it's a repository template, all you need to do is create a new repository from this repository to create your website.
 
