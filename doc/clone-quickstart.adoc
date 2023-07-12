@@ -1,5 +1,4 @@
-=== quick path to a simple documentation workflow and publication site
-
+== Quick step-by-step guide to create a simple documentation workflow and publication process
 . Precondition, get a user account on github (to follow along with this demo, start at https://github.com, there is a free option)
 . Browse to https://github.com/asciidoctor/jekyll-asciidoc-quickstart
 . Click the green 'Use this template' button
