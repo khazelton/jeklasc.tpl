@@ -19,7 +19,7 @@
 . Watch the build/deploy workflow (for details, click on 'build' or 'deploy')
 . Scroll back to the top of 'Github Pages' where you will see a 'Visit site' button. Click it.
 . The Quickstart page appears, hosted in the repo you created.
-. If you open README.adoc for edits, add a sentence somewhere and commit the change, the auto-republication workflow will begin. 
+. If you open index.adoc for edits, add a sentence somewhere and commit the change, the auto-republication workflow will begin. 
 . Click on 'actions' on the top toolbar to track the process. 
 . When the process finishes, revisit the site and you should see the changes you made.
 . To create 'spaces' (in Confluence terminology), create a 'doc' directory at the same level as the index.adoc
