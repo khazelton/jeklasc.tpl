@@ -185,6 +185,10 @@ see https://github.com/markdown-it/markdown-it-emoji#change-output[how to change
 
 === https://github.com/markdown-it/markdown-it-sub[Subscript] / https://github.com/markdown-it/markdown-it-sup[Superscript]
 
+"`Well the H~2~O formula written on their whiteboard could be part
+of a shopping list, but I don't think the local bodega sells
+E=mc^2^,`" Lazarus replied.
+
 19^th^ 
 H~2~O
 
