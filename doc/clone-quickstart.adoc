@@ -40,6 +40,7 @@ https://asciidoctor.org/ +
 http://themes.asciidoctor.org/preview/ <- Writer's guide +
 https://docs.asciidoctor.org/asciidoc/latest/directives/include/ +
 https://docs.asciidoctor.org/asciidoc/latest/docinfo/ <- custom content into head, header, or footer +
+https://powerman.name/doc/asciidoc-827[] +
 https://asciidoc-wg.eclipse.org/ +
 https://blog.jread.com/auto-build-and-host-pretty-html-documentation-using-asciidoc-github-pages-github-actions-758a03f93d7d <- readme.md with asciidoc pages +
 https://matthewjamestaylor.com/holy-grail-layout <- 'holy grail 3 column responsive layout' +
