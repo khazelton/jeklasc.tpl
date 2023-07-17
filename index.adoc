@@ -9,7 +9,7 @@ This addition will re-trigger the auto-republication workflow. You've successful
 
 Here is a xref:doc/clone-quickstart.adoc[quick step-by-step guide] to creating your own version of this site.
 
-And xref:doc/markdown.md[here is a pure markdown file].
+And xref:doc/markdown.adoc[here is a pure markdown file] coverted to asciidoc with kramdown.
 
 See if it worked!
 
