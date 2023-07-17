@@ -11,6 +11,8 @@ Here is a xref:doc/clone-quickstart.adoc[quick step-by-step guide] to creating y
 
 And xref:doc/markdown.md[here is a pure markdown file].
 
+See if it worked!
+
 Now that you've set up your website to run with AsciiDoc, you have a ton of options available to you.
 
 === Edit content
