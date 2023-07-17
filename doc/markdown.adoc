@@ -185,8 +185,8 @@ see https://github.com/markdown-it/markdown-it-emoji#change-output[how to change
 
 === https://github.com/markdown-it/markdown-it-sub[Subscript] / https://github.com/markdown-it/markdown-it-sup[Superscript]
 
-* 19{caret}th{caret}
-* H~2~O
+19^th^ 
+H~2~O
 
 === https://github.com/markdown-it/markdown-it-ins[<ins>]
 
