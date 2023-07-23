@@ -1,6 +1,5 @@
 = h1 Heading 8-)
-:custom_css: create-site
-:page-layout: start-doc-site
+:page-layout: plainer
 :pp: {plus}{plus}
 
 == h2 Heading
