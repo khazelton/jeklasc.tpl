@@ -3,6 +3,8 @@
 :page-title: Jekyll AsciiDoc Quickstart
 :page-description: A forkable blog-ready Jekyll site using AsciiDoc
 
+image::https://github.com/khazelton/jeklasc1/actions/workflows/jekyll.yml/badge.svg[status]
+
 This addition will re-trigger the auto-republication workflow. You've successfully set up and deployed an Jekyll website powered by AsciiDoc using the https://github.com/asciidoctor/jekyll-asciidoc-quickstart[*Jekyll AsciiDoc Quickstart*] project. If everything is in order then changes to the AsciiDoc content will be automatically published to your `gh_pages` branch and hosted via Jekyll and Github.
 
 == What do I do now?
