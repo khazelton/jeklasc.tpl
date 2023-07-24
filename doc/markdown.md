@@ -1,7 +1,6 @@
 ---
-layout: start-doc-site
+layout: plainer
 title: include markdown files in a jekyll-asciidoc project
-custom_css: create-site
 ---
 
 # h1 Heading 8-)
