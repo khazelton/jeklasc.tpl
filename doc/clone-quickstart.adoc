@@ -1,7 +1,6 @@
 ---
 layout: plainer
 title: Create a simple documentation workflow and publication process
-custom_css: create-site
 ---
 
 == Quick step-by-step guide
