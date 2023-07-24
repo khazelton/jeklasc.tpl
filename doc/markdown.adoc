@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 ---
 :custom_css: create-site
 :page-layout: start-doc-site
+=======
+= h1 Heading 8-)
+:page-layout: plainer
+>>>>>>> 9716b2406a0f5789a638c44cc68c8920984a47b6
 :pp: {plus}{plus}
 ---
 
